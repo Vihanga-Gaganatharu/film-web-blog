@@ -9,6 +9,7 @@ Welcome to the Digital-Emporium POS System project! This web-based Point of Sale
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
     - [Steps](#steps)
+  - [Images](#images)
 
 ## Features
 - **User Authentication**: Secure login for staff and administrators.
@@ -28,4 +29,11 @@ Welcome to the Digital-Emporium POS System project! This web-based Point of Sale
          https://github.com/Vihanga-Gaganatharu/film-web-blog.git
 
 
-https://drive.google.com/file/d/1Mjd184qI46AfnwRF-KHuvJpf4nkQq6wa/view?usp=sharing
+
+```markdown
+## Images
+
+![Image 1](/assets/ss/img1.jpg)
+![Image 2](/assets/ss/img2.jpg)
+![Image 3](/assets/ss/img3.jpg)
+![Image 4](/assets/ss/img4.jpg)
