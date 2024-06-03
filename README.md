@@ -33,7 +33,7 @@ Welcome to the Digital-Emporium POS System project! This web-based Point of Sale
 ```markdown
 ## Images
 
-![Image 1](/assets/ss/img1.jpg)
-![Image 2](/assets/ss/img2.jpg)
-![Image 3](/assets/ss/img3.jpg)
-![Image 4](/assets/ss/img4.jpg)
+<p align="center"><img src="/assets/ss/img1.jpg" alt="project-image"></p>
+<p align="center"><img src="/assets/ss/img2.jpg" alt="project-image"></p>
+<p align="center"><img src="/assets/ss/img3.jpg" alt="project-image"></p>
+<p align="center"><img src="/assets/ss/img4.jpg" alt="project-image"></p>
