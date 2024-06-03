@@ -9,7 +9,6 @@ Welcome to the Digital-Emporium POS System project! This web-based Point of Sale
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
     - [Steps](#steps)
-  - [Images](#images)
 
 ## Features
 - **User Authentication**: Secure login for staff and administrators.
@@ -30,8 +29,6 @@ Welcome to the Digital-Emporium POS System project! This web-based Point of Sale
 
 
 
-```markdown
-## Images
 
 <p align="center"><img src="/assets/ss/img1.jpg" alt="project-image"></p>
 <p align="center"><img src="/assets/ss/img2.jpg" alt="project-image"></p>
