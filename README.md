@@ -27,9 +27,6 @@ Welcome to the Digital-Emporium POS System project! This web-based Point of Sale
    ```bash
          https://github.com/Vihanga-Gaganatharu/film-web-blog.git
 
-
-
-
 <p align="center"><img src="/assets/ss/img1.jpg" alt="project-image"></p>
 <p align="center"><img src="/assets/ss/img2.jpg" alt="project-image"></p>
 <p align="center"><img src="/assets/ss/img3.jpg" alt="project-image"></p>
